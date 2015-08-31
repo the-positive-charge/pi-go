@@ -1,0 +1,16 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"MF";"MPN";"OC_FARNELL";"OC_NEWARK";"PROD_ID";
+"3";"0.1uF";"C-EUC0805";"C0805";"C1, C3, C7";"CAPACITOR, European symbol";"";"";"";"";"";
+"1";"10K0";"R-US_R0805";"R0805";"R1";"RESISTOR, American symbol";"";"";"";"";"";
+"1";"10uH";"SRP1265A";"POWER-INDUCTOR-SHIELD";"L1";"";"";"";"";"";"";
+"1";"114555P2";"114555P2";"APP2X1CLIP";"XCN3";"Anderson Powerpole Mounting Staple 2x1";"";"";"";"";"";
+"2";"1377G12";"1377G12";"1377G12";"CN1, CN2";"Anderson Powerpole 25A Pin Right Angle Bottom Low Force";"";"";"";"";"";
+"1";"1800pF";"C-EUC0805";"C0805";"C4";"CAPACITOR, European symbol";"";"";"";"";"";
+"3";"22uF";"C-EUC1210";"C1210";"C2, C5, C6";"CAPACITOR, European symbol";"";"";"";"";"";
+"1";"3A";"FB0805";"C0805";"FB1";"Ferrite Bead";"";"";"";"";"";
+"2";"52K3";"R-US_R0805";"R0805";"R2, R3";"RESISTOR, American symbol";"";"";"";"";"";
+"1";"AOZ1031A1";"AOZ1031A1";"AOZ1031AI-SO08";"U1";"EZBuck 3A Synchronous Buck Regulator";"";"";"";"";"";
+"1";"DNI";"MA04-1";"MA04-1";"CN4";"PIN HEADER";"";"";"unknown";"unknown";"";
+"1";"FUSE-5X20-HOLDER";"FUSE-5X20-HOLDER";"LITTELFUSE-02540101Z";"XF1";"5x20mm Fuse Holder";"";"";"";"";"";
+"1";"SI2343CDS";"SI2343CDS";"SOT23";"Q1";"Single P-Channel, MOSFET";"";"";"";"";"";
+"1";"SSW-120-01-T-D";"SSW-120-01-T-D";"SSW-120-XX-X-D";"CN3";"THROUGH-HOLE .025" SQ POST SOCKET";"";"";"";"";"";
+"2";"SWITCH-MOMENTARY-2SMD-4";"SWITCH-MOMENTARY-2SMD-4";"TACTILE_SWITCH_TALL";"SW1, SW2";"Various NO switches- pushbuttons, reed, etc";"";"";"";"";"SWCH-11966";

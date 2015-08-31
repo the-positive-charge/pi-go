@@ -1,0 +1,141 @@
+Netlist
+
+Exported from Pi-Go.sch at 8/11/15 2:14 PM
+
+EAGLE Version 7.3.0 Copyright (c) 1988-2015 CadSoft
+
+Net      Part     Pad      Pin        Sheet
+
+COM2     C4       1        1          1
+         R3       1        1          1
+
+COMP1    R3       2        2          1
+         U1       5        COMP       1
+
+FB       R1       2        2          1
+         R2       2        2          1
+         U1       4        FB         1
+
+FUSED    Q1       3        D          1
+         XF1      2        P$2        1
+
+GND      C1       2        2          1
+         C2       2        2          1
+         C3       2        2          1
+         C4       2        2          1
+         C5       2        2          1
+         C6       2        2          1
+         C7       2        2          1
+         CN2      P$1      P$1        1
+         CN3      14       14         1
+         CN3      20       20         1
+         CN3      25       25         1
+         CN3      30       30         1
+         CN3      34       34         1
+         CN3      39       39         1
+         CN3      6        6          1
+         CN3      9        9          1
+         CN4      2        2          1
+         CN4      4        4          1
+         Q1       1        G          1
+         R1       1        1          1
+         SW1      B1       2          1
+         SW1      B2       2          1
+         SW2      B1       2          1
+         SW2      B2       2          1
+         U1       1        PGND       1
+         U1       3        AGND       1
+         XCN3     P$1      1          1
+         XCN3     P$2      2          1
+
+GPIO02   CN3      3        3          1
+
+GPIO03   CN3      5        5          1
+
+GPIO04   CN3      7        7          1
+
+GPIO05   CN3      29       29         1
+
+GPIO06   CN3      31       31         1
+
+GPIO07   CN3      26       26         1
+
+GPIO08   CN3      24       24         1
+
+GPIO09   CN3      21       21         1
+
+GPIO10   CN3      19       19         1
+
+GPIO11   CN3      23       23         1
+
+GPIO12   CN3      32       32         1
+
+GPIO13   CN3      33       33         1
+
+GPIO14   CN3      8        8          1
+
+GPIO15   CN3      10       10         1
+
+GPIO16   CN3      36       36         1
+
+GPIO17   CN3      11       11         1
+
+GPIO18   CN3      12       12         1
+
+GPIO19   CN3      35       35         1
+
+GPIO20   CN3      38       38         1
+
+GPIO21   CN3      40       40         1
+
+GPIO22   CN3      15       15         1
+
+GPIO23   CN3      16       16         1
+         CN4      1        1          1
+         SW1      A1       1          1
+         SW1      A2       1          1
+
+GPIO24   CN3      18       18         1
+
+GPIO25   CN3      22       22         1
+         CN4      3        3          1
+         SW2      A1       1          1
+         SW2      A2       1          1
+
+GPIO26   CN3      37       37         1
+
+GPIO27   CN3      13       13         1
+
+ID_SC    CN3      28       28         1
+
+ID_SD    CN3      27       27         1
+
+LX       L1       1        1          1
+         U1       7        LX1        1
+         U1       8        LX2        1
+
+N$1      CN1      P$1      P$1        1
+         FB1      1        P$1        1
+
+V3P3A    CN3      1        1          1
+
+V3P3B    CN3      17       17         1
+
+V5P0     C5       1        1          1
+         C6       1        1          1
+         C7       1        1          1
+         CN3      2        2          1
+         CN3      4        4          1
+         L1       2        2          1
+         R2       1        1          1
+
+VIN      C2       1        1          1
+         C3       1        1          1
+         Q1       2        S          1
+         U1       2        VIN        1
+         U1       6        EN         1
+
+VINFLT   C1       1        1          1
+         FB1      2        P$2        1
+         XF1      1        P$1        1
+
