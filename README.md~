@@ -1,8 +1,7 @@
 # pi-go
 Pi-Go Kickstarter - Design Files
 
-This directory contains the Cadsoft Eagle (v7.3) design files: Schematic, Layout and related files
-The "Gerber Files" directory contains the fabrication files
+This directory contains the Schematic, Layout, and Gerber files.
 The "Other Files" directory contains the BOM and other related files (design rules, netlist, etc.)
 
 The Pi-Go design is released under the TAPR Open Hardware License:
