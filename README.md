@@ -2,7 +2,7 @@
 Pi-Go Kickstarter - Design Files
 
 ## IMPORTANT NOTICE 2019-09-14
-**This design requires modification to add reverse voltage protection and the ID EEPROM as
+**This design requires modification to add the 5V "safety" protection and the ID EEPROM as
 specified by the Raspberry Pi Hat specification: https://github.com/raspberrypi/hats**
 
 This directory contains the Cadsoft Eagle (v7.3) design files: Schematic, Layout and related files
