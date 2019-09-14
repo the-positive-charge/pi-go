@@ -1,10 +1,9 @@
 # pi-go
 Pi-Go Kickstarter - Design Files
 
-## **** IMPORTANT NOTICE *****
-## **** 2019-09-14 ***********
-__**This design requires modification to add reverse voltage protection and the ID EEPROM as
-specified by the Raspberry Pi Hat specification: https://github.com/raspberrypi/hats**__
+## IMPORTANT NOTICE 2019-09-14
+**This design requires modification to add reverse voltage protection and the ID EEPROM as
+specified by the Raspberry Pi Hat specification: https://github.com/raspberrypi/hats**
 
 This directory contains the Cadsoft Eagle (v7.3) design files: Schematic, Layout and related files
 The "Gerber Files" directory contains the fabrication files
